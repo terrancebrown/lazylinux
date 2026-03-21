@@ -1,0 +1,37 @@
+baseURL: https://lazylinux.xyz/
+languageCode: en-gb
+title: Lazy Linux
+theme: PaperMod
+
+pagination:
+  pagerSize: 10
+
+params:
+  author: Terrance
+  description: A lazy person's notes on Linux and tech — configs, dotfiles, and things I keep forgetting.
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+
+  homeInfoParams:
+    Title: "lazy linux"
+    Content: >
+      Notes to my future self — configs, dotfiles, and things I keep forgetting.
+      Written by a forty-something in Cape Town who just wants his tools to work.
+
+  socialIcons:
+    - name: email
+      url: mailto:hi@lazylinux.xyz
+
+menu:
+  main:
+    - name: TIL
+      url: /til/
+      weight: 1
+    - name: Configs
+      url: /configs/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
