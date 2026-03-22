@@ -21,6 +21,10 @@ params:
       Written by a forty-something in Cape Town who just wants his tools to work.
 
   socialIcons:
+    - name: github
+      url: https://github.com/terrancebrown
+    - name: gitlab
+      url: https://gitlab.com/terrancebrown
     - name: email
       url: mailto:hi@lazylinux.xyz
 
