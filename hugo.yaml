@@ -25,6 +25,8 @@ params:
       url: https://github.com/terrancebrown
     - name: gitlab
       url: https://gitlab.com/terrancebrown
+    - name: mastodon
+      url: https://fosstodon.org/@lazylinux
     - name: email
       url: mailto:hi@lazylinux.xyz
 
