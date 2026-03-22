@@ -2,6 +2,7 @@ baseURL: https://lazylinux.xyz/
 locale: en-gb
 title: Lazy Linux
 theme: PaperMod
+enableRobotsTXT: true
 
 pagination:
   pagerSize: 10
