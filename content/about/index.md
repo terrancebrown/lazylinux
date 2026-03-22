@@ -2,6 +2,8 @@
 title: "About"
 layout: "page"
 draft: false
+ShowReadingTime: false
+hideAuthor: true
 ---
 
 Lazy Linux is a personal notes site run by Terrance — a forty-something in Cape Town who just wants his tools to work.
