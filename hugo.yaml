@@ -1,13 +1,15 @@
 baseURL: https://lazylinux.xyz/
-locale: en-gb
+languageCode: en-GB
 title: Lazy Linux
-theme: PaperMod
+theme: [PaperMod]
 enableRobotsTXT: true
+mainsections: ["til", "configs"]
 
 pagination:
   pagerSize: 10
 
 params:
+  env: production
   author: Terrance
   description: A lazy person's notes on Linux and tech — configs, dotfiles, and things I keep forgetting.
   defaultTheme: auto
