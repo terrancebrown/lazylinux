@@ -1,5 +1,5 @@
 baseURL: https://lazylinux.xyz/
-languageCode: en-GB
+locale: en-GB
 title: Lazy Linux
 theme: [PaperMod]
 enableRobotsTXT: true
