@@ -8,7 +8,7 @@ hideAuthor: true
 
 Lazy Linux is a personal notes site run by Terrance — a forty-something in Cape Town who just wants his tools to work.
 
-No tutorials. No sponsored content. Just notes to my future self about configs, dotfiles, and commands I keep forgetting.
+No tutorials. No sponsored content. Just notes to my future self: fixes for problems in [TIL](/til/), and config records in [Configs](/configs/).
 
 I run Linux (and sometimes macOS) as daily drivers, use a lot of terminal tools, and have a habit of breaking things just to see if I can fix them. This site is where I write down the fixes.
 
